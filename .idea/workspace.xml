@@ -37,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -136,10 +136,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1614740346089">
+    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1614747609356">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1614740346089" />
+    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1614747609356" />
     <state x="220" y="95" key="AndroidCreateResourceFileDialog" timestamp="1614745552331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -164,9 +164,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614678577580" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614744560650">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614755318514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614744560650" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614755318514" />
   </component>
 </project>
