@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa1ee47-16cd-41c3-8411-80d4ff8ac7a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,6 +15,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HP_BNCC_x_GoJek]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -24,6 +33,15 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dsc2020-finalproject-android" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -116,5 +134,39 @@
       <updated>1614678329252</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1614740346089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="431" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1614740346089" />
+    <state x="220" y="95" key="AndroidCreateResourceFileDialog" timestamp="1614745552331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="220" y="95" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1614745552331" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1614740099504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614740099504" />
+    <state width="1237" height="121" key="GridCell.Tab.0.bottom" timestamp="1614678577580">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1614678577580" />
+    <state width="1237" height="121" key="GridCell.Tab.0.center" timestamp="1614678577580">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1614678577580" />
+    <state width="1237" height="121" key="GridCell.Tab.0.left" timestamp="1614678577579">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1614678577579" />
+    <state width="1237" height="121" key="GridCell.Tab.0.right" timestamp="1614678577580">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1614678577580" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1614744560650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1614744560650" />
   </component>
 </project>
